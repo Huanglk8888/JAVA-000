@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com/hlk/homework/weeks05/boot/CustomAutoConfiguration.java
